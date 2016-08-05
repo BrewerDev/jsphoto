@@ -1,0 +1,11 @@
+#content_main
+		{padding: 0px;
+		}
+.vid
+		{padding-left:100px;/*to adjust the horizontal placement of the videos adjust this number*/
+		
+		 }
+iframe		
+		{padding-top:40px;/*to adjust the verticle placement of the videos adjust this number*/
+		
+		}

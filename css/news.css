@@ -1,0 +1,36 @@
+#news_blog
+		{float: left;
+		width: 270px;
+		text-align: left;
+		margin-left: 40px;
+		}
+		
+#left_side
+		{float: right;
+		margin-right: 40px;
+		}
+		
+#new_picts
+		{clear: both;
+		width: 270px;
+		}
+		
+#new_vids
+		{clear: both;
+		width: 270px;
+		/*margin-top: 114px;*/
+		}
+		
+#new_events
+		{clear: both;
+		width: 270px;
+		
+		/*margin-top: 114px;*/
+		}
+		
+#new_events p
+		{padding-left: 6px;
+		padding-bottom:10px;
+		font-size:14px;
+		}
+

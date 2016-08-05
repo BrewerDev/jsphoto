@@ -1,0 +1,146 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*
+		{margin: 0;
+		padding: 0;
+		}
+
+.current a:visited{color:#FC0;}
+
+body
+		{background-color:#000016;
+		font-size: 12px;
+		line-height: 140%;
+		font-family: trebuchet, arial, sans-serif;
+		color: #FFF;
+		}
+
+#branding_home
+		{height: 462px;}
+
+#container_home
+		{background-image:url(../images/front_page.jpg);
+		background-repeat:no-repeat;
+		margin: 0 auto;
+		margin-top:100px;
+		width: 800px;
+		height:600px;
+		position: relative;
+		}
+		
+#nav_home
+		{height:32px;
+		background-color:#000016;
+		background-image:url(../images/nav_bar_home.gif);
+		padding-left:280px;
+		}		
+		
+#nav_home ul
+		{height:20px;
+		float:right;
+		padding: 9px 0 0 0px;/**/
+		}
+		
+#nav_home li 
+		{text-decoration:none;
+		display: inline;
+		padding-right:20px;
+		/*list-style-type: none;*/
+		}
+		
+			
+* a
+		{text-decoration:none;
+		color: #FFF;
+		}
+		
+* a:visited
+		{text-decoration:none;
+		color: #FFF;
+		}
+		
+* a:hover
+		{text-decoration:none;
+		color: #FC0;
+		}
+		
+* a:active
+		{text-decoration:none;
+		color: #C00;
+		}
+/*		
+#lnk_gal a
+		{background-image:url(../images/arrow_1.gif);
+		background-repeat:no-repeat;
+		padding-left:16px;
+		}
+
+#lnk_vid a
+		{background-image:url(../images/arrow_1.gif);
+		background-repeat:no-repeat;
+		padding-left:16px;
+		}
+		
+ul.link_list
+		{padding-top:10px;
+		padding-bottom:10px;
+		}
+		
+.link_list li
+		{list-style: none;
+		text-align: center;
+		padding-top:5px;
+		}		*/
+.open
+		{float: left;
+		width:130px;
+		font-size: 10px;
+		margin-right:20px;
+		border: solid 1px #4d4d4d;
+		overflow: hidden;
+		background-image:url(../images/drop_down_home.jpg);
+		/*background-color:#2d2522;*/
+		}
+		
+.open ul
+		{padding:10px;}
+		
+.open li
+		{list-style: none;
+		padding-bottom:5px;}
+		
+.closed
+		{float: left;/**/
+		display:inline;
+		/*visibility:hidden;*/
+		
+		width:0px;
+		height: 0px;
+		/*top:0;
+		left:0;*/
+		border: 0;
+		overflow: hidden;
+		padding-right:0;
+		}
+		
+		#lnk_gal 
+				{background-image:url(../images/arrow_5.gif);
+				background-repeat:no-repeat;
+				padding-left:16px;
+				}
+
+		#lnk_vid 
+				{background-image:url(../images/arrow_5.gif);
+				background-repeat:no-repeat;
+				padding-left:16px;
+				}
+
+		
+#nav_home img
+		{padding-right: 4px;
+		}
+		
+address.home
+		{padding-top:27px;
+		}

@@ -1,0 +1,45 @@
+#player_back
+		{position:fixed;
+		height:100%;
+		width:100%;
+		top:0px;
+		left:0px;
+		background-color:#000000;
+		opacity:0.8;
+		z-index: 90;
+		/*background-image:url(../images/clear_black.png);*/
+		}
+
+#player_box
+		{position:fixed;
+		/*height:300px;*/
+		top:100px;
+		width:100%;
+	
+		}
+		
+#content_box
+		{position:relative;
+		margin:0 auto;
+		padding:20px 20px 0px 20px;
+		height:100%;
+		width:480px;/*480*/
+		background-color:#ffffff;
+		z-index: 91;
+		}
+		
+#controls
+		{padding:10px 0 10px 0;}
+
+#close_btn
+		{float:right;
+		}
+
+#vid_description
+		{float:left;
+		width:80%;/*400px;*/
+		margin-right: 20px;
+		color:#000000;
+		}
+
+.cap{clear:both;}

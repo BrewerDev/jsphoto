@@ -1,0 +1,17 @@
+#l_side
+		{float:left;
+		width:270px;
+		margin-left:40px;
+		}
+#r_side
+		{float:right;
+		width:270px;
+		margin-right:40px;
+		}
+.e-month
+		{padding:  0 0px 32px 0px;}
+		
+.e-month p
+		{padding-left: 6px;
+		font-size:14px;
+		}

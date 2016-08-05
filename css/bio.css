@@ -1,0 +1,43 @@
+#boundry_box
+		{/*padding-left:40px;
+		padding-right:40px;*/
+		float:left;
+		width:570px;
+		margin-left: 40px;
+		}
+
+.bio_body 
+		{float:right;
+		width: 347px;/**/
+		text-align:justify;
+		text-indent:50px;
+		padding:0 6px 0 ;/**/
+		}
+
+.bio_pict
+		{float:left;
+		width:146px;
+		margin-left: 6px;
+		/*margin-bottom:32px;*/
+		}
+
+#bio
+		{float:left;/**/
+		margin-bottom:32px;
+		width:572px;
+		}
+
+#self_port
+		{float:left;/**/
+		width:572px;
+		}
+
+#fav_picts
+		{float:left;/**/
+		width:572px;
+		}
+		
+#fav_vids
+		{float:left;/**/
+		width:572px;
+		}
