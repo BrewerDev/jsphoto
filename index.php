@@ -19,7 +19,7 @@
                 	<li><a href="events.php">Events</a></li>
                 	<li id="lnk_gal"><a href="pict_gallerys.php">Gallerys</a></li>
                 	<li id="lnk_vid"><a href="vid_gallerys.php">Videos</a></li>
-                	<li><a href="resume.pdf">Resume</a></li>
+                	<li><a href="pdf/resume.pdf">Resume</a></li>
 			<li><a href="contact.php">Contact Me</a></li>
         	</ul>
         </div><!--nav_home-->
