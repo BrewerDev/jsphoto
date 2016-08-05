@@ -16,7 +16,7 @@
         		<li class="current"><a href="index.php">Home</a></li>
         		<li><a href="bio.php">Bio</a></li>
                 	<li><a href="news.php">News</a></li>
-                	<li id="li-events"><a href="#">Events</a></li>
+                	<li><a href="events.php">Events</a></li>
                 	<li id="lnk_gal"><a href="pict_gallerys.php">Gallerys</a></li>
                 	<li id="lnk_vid"><a href="vid_gallerys.php">Videos</a></li>
                 	<li><a href="resume.pdf">Resume</a></li>
