@@ -1,23 +1,16 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Joshua Smith Film and Photography</title>
-<?php include "php/favicon.php";?>
-<link rel="stylesheet" type="text/css" href="css/home_style.css" />
-<script type="text/javascript" src="js/core.js"></script>
-<script type="text/javascript" src="js/nav_home.js"></script><!---->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Joshua Smith Film and Photography</title>
 
-<style type="text/css">
-
-</style>
+	<link rel="stylesheet" type="text/css" href="css/home_style.css" />
+	<script type="text/javascript" src="js/core.js"></script>
+	<script type="text/javascript" src="js/nav_home.js"></script>
 </head>
 
 <body>
-	<div id="container_home">
-        <div id="branding_home">
-        </div><!--branding_home-->
-        
+<div id="container_home">
     	<div id="nav_home">
         	<ul>
         		<li class="current"><a href="index.php">Home</a></li>
@@ -31,10 +24,8 @@
         	</ul>
         </div><!--nav_home-->
         
-		
-				
         <div id="site_info">
-		</div><!--site_info-->  
+	</div><!--site_info-->  
 </div><!--container-->
 </body>
 </html>
